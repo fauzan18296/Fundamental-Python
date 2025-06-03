@@ -1,0 +1,15 @@
+{
+  "pylint.args": [
+  "--disable=C0111", 
+  "disable=missing-module-docstring",
+  "disable=missing-class-docstring",
+  "disable=missing-function-docstring",
+  "disable=invalid-name",
+  "pylint: disable=trailing-newlines",
+  "disable=trailing-whitespace",
+  "disable=missing-final-newline"],
+  "workbench.colorTheme": "One Monokai",
+  "editor.fontFamily": "Hack Nerd Font",
+  "editor.fontSize": 20,
+  "window.zoomLevel": 0.6,
+}
