@@ -1,0 +1,27 @@
+{
+  "pylint.args": [
+  "--disable=C0111", 
+  "disable=missing-module-docstring",
+  "disable=missing-class-docstring",
+  "disable=missing-function-docstring",
+  ],
+  "python.analysis.aiCodeActions": {
+    "implementAbstractClasses": true,
+    "generateSymbol": true,
+    "convertFormatString": true
+  },
+  "python.analysis.supportAllPythonDocuments": true,
+  "workbench.colorTheme": "One Dark Pro Mix",
+  "editor.fontFamily": "Hack Nerd Font",
+  "editor.fontSize": 20,
+  "window.zoomLevel": 0.2,
+  "python.analysis.autoIndent": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.parameterHints.enabled": true,
+  "editor.hover.enabled": true,
+  "files.autoSaveDelay": 6
+}
